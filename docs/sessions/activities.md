@@ -1,12 +1,12 @@
-# Aims
+## Aims
 
 By the end of the session you should be able to add, update activities along with understanding how to use them to improve your contact engagement.
 
-# Objectives
+## Objectives
 
 Become familiar with basic concepts of CiviCRM Activities, understand those activities created automatically, be comfortable creating and working with activities, and gain an understanding of how to leverage activities to improve tracking specific information on a contact.
 
-# Learning points
+## Learning points
 
 Things to learn:
 
@@ -21,11 +21,11 @@ Things to learn:
 * Repeat Activities
 * Follow-up Activities
 
-# Session Plan
+## Session Plan
 
 This session should take 60 minutes. Explain that we'll cover the basics and have hands on exercises.
 
-# Activities Overview (10)
+### Activities Overview (10)
 
 Explain that the purpose of Activities is to be central place that tracks the history of interactions with your contacts.
 
@@ -35,7 +35,7 @@ Review the many ways an organization can use Activities to record interactions w
 
 Discuss ways that individuals can use Activities to keep track of tasks, follow-ups or to-dos.  
 
-## Add an Activity (5)
+### Add an Activity (5)
 
 Walk through adding an activity. Explain required and optional fields.
 
@@ -56,16 +56,16 @@ Walk through adding an activity. Explain required and optional fields.
 * Repeat Activity
 * Follow-ups
 
-## Customization - Type, Status, Fields (6)
+### Customization - Type, Status, Fields (6)
 
 * Review how to change or add new Activity Types.
 * Review how to change or add new Activity Status'.
 * Review how to add Custom Fields to an activity. Include discussion about specifying for an Activity Type.
 
-## Future Activities (9)
+### Future Activities (9)
 
 * Review tie between activity status and future dates for scheduling future activities.
 * Review assigning an activity to self or another person.
 * Review how to track future activities that need to be done.
 
-# Exercises (30)
+## Exercises (30)
