@@ -1,6 +1,6 @@
 # CiviCRM training guide
 
-Note: This repository contains _source files_ for the CiviCRM training guide. These files should be used for contributing to the documentation.  **It is not publihed yet but when it is... [You can read the doc here.  
+Note: This repository contains _source files_ for the CiviCRM training guide. These files should be used for contributing to the documentation.  **It is not published yet but when it is... [You can read the doc here.  
 ](https://docs.civicrm.org/training/en/stable/)**
 
 ## Contributing to this guide
