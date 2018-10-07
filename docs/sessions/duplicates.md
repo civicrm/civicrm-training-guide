@@ -27,7 +27,7 @@ Extra points that it would be good to go into, if there is time include:
 
 This session should last 45 minutes with the exercises and 30 minutes without.
 
-## Basic concepts (10 minutes)
+### Basic concepts (10 minutes)
 
 With the group talk about what duplicates are and ask the group why they may occur (e.g. from imported data, public form data, added by staff, misspellings).
 
