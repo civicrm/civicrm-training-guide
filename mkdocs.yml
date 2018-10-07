@@ -39,9 +39,9 @@ pages:
     - 'Set up': 'sessions/set-up.md'
     - 'Website Integration': 'sessions/website-integration.md'
 - Courses:
-    - 'Learn how to administer CiviCRM software in 1 day': 'sessions/admin-1-day.md'
-    - 'Learn how to administer CiviCRM software in 2 days': 'sessions/admin-2-days.md'
-    - 'CiviCRM for Fundraisers in 1 day': 'fundraising-1-day.md'
+    - 'Learn how to administer CiviCRM software in 1 day': 'courses/admin-1-day.md'
+    - 'Learn how to administer CiviCRM software in 2 days': 'courses/admin-2-days.md'
+    - 'CiviCRM for Fundraisers in 1 day': 'courses/fundraising-1-day.md'
     
     
     
