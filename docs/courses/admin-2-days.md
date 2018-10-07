@@ -33,53 +33,53 @@
 
 ### Day 1
 
-09:00-09:30	Arrival with coffee
+09:00-09:30	| Arrival with coffee
 
-09:30-09:45	Introductions - include an ice breaker
+09:30-09:45	| Introductions - include an ice breaker
 
-09:45-10:45	Session 1 - Introduction to CiviCRM (with exercises)
+09:45-10:45	| Session 1 - Introduction to CiviCRM (with exercises)
 
-10:45-11:45	Session 2 - Set Up (with exercises)
+10:45-11:45	| Session 2 - Set Up (with exercises)
 
-11:45-12:00	Break
+11:45-12:00	| Break
 
-12:00-13:00	Session 3 - Organising Data (with exercises)
+12:00-13:00	| Session 3 - Organising Data (with exercises)
 
-13:00-14:00	Lunch
+13:00-14:00	| Lunch
 
-14:00-15:00	Session 4 - Profiles (with exercises)
+14:00-15:00	| Session 4 - Profiles (with exercises)
 
-15:00-15:15	Break
+15:00-15:15	| Break
 
-15:15-16:15	Session 5 - Contribute (with exercises)
+15:15-16:15	| Session 5 - Contribute (with exercises)
 
-16:15-16:30	Closing Session - ask learners if the day has met their expectations and how could the day have been improved
+16:15-16:30	| Closing Session - ask learners if the day has met their expectations and how could the day have been improved
 
-16:30-17:30	Extra Time - this time can be used for 1 to 1 assistance and covering material not included within the course.
+16:30-17:30	| Extra Time - this time can be used for 1 to 1 assistance and covering material not included within the course.
 
 ### Day 2
 
-09:00-09:30	Arrival with coffee
+09:00-09:30	| Arrival with coffee
 
-09:30-09:45	Recap of Day 1 / Choose Topic for Session 12
+09:30-09:45	| Recap of Day 1 / Choose Topic for Session 12
 
-09:45-10:45	Session 6 - Duplicates (no exercises) / Session 7 - Website integration (no exercises)
+09:45-10:45	| Session 6 - Duplicates (no exercises) / Session 7 - Website integration (no exercises)
 
-10:45-11:45	Session 8 - Events (with exercises)
+10:45-11:45	| Session 8 - Events (with exercises)
 
-11:45-12:00	Break
+11:45-12:00	| Break
 
-12:00-13:00	Session 9 - Membership (with exercises)
+12:00-13:00	| Session 9 - Membership (with exercises)
 
-13:00-14:00	Lunch
+13:00-14:00	| Lunch
 
-14:00-15:00	Session 10 - Communications (with exercises)
+14:00-15:00	| Session 10 - Communications (with exercises)
 
-15:00-15:15	Break
+15:00-15:15	| Break
 
-15:15-16:15	Session 11 - Reports (no exercises) / Session 12 - Flexible Session (this could be Case Management, grant or campaign) – no exercises
+15:15-16:15	| Session 11 - Reports (no exercises) / Session 12 - Flexible Session (this could be Case Management, grant or campaign) – no exercises
 
-16:15-16:30	Closing Session - ask learners if the course has met their expectations
+16:15-16:30	| Closing Session - ask learners if the course has met their expectations
 
-16:30-17:30	Extra Time and Close - this time can be used for 1 to 1 assistance and covering material not included within the course.
+16:30-17:30	| Extra Time and Close - this time can be used for 1 to 1 assistance and covering material not included within the course.
 
