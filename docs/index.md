@@ -8,7 +8,7 @@ The courses can be run with groups of learners and the trainer will need access 
 
 ## Editing this guide
 
-* This guide is made with MkDocs and stored in a [GitHub repository](https://github.com/civicrm/civicrm-user-guide).
+* This guide is made with MkDocs and stored in a [GitHub repository](https://github.com/civicrm/civicrm-training-guide).
 * For simple editing instructions, see [contributing to this guide](/the-civicrm-community/contributing-to-this-manual.md).
 * For a more in-depth editing tutorial, see our page in the Developer Guide on [writing documentation](https://docs.civicrm.org/dev/en/latest/documentation).
 
@@ -16,4 +16,4 @@ The courses can be run with groups of learners and the trainer will need access 
 
 This guide is collaboratively written by the CiviCRM community, with facilitation from the [Documentation Working Group](https://civicrm.org/working-groups/documentation).
 
-It draws heavily on training material written by Michael McAndrew  and Oliver Gibson.
+It draws heavily on training material written by Michael McAndrew and Oliver Gibson.
