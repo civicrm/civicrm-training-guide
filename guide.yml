@@ -1,0 +1,21 @@
+site_name: 'CiviCRM user and admin training: trainers guide'
+docs_dir: guide
+theme: readthedocs
+pages:
+    - Home: index.md
+    - Timetable: timetable.md
+    - Introduction: introduction.md
+    - Introduction to CiviCRM: introduction-to-civicrm.md
+    - Setup: setup.md
+    - Organising data: organising-data.md
+    - Profiles: profiles.md
+    - Contribute: contribute.md
+    - Duplicates: duplicates.md
+    - Website integration: website-integration.md
+    - Events: events.md
+    - Membership: membership.md
+    - Communications: communications.md
+    - Reports: reports.md
+    - Case management: case.md
+    - Grant: grants.md
+    - Campaign: campaign.md
