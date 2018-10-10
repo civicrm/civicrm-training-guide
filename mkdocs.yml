@@ -1,5 +1,5 @@
 site_name: 'CiviCRM Training Guide'
-site_url: https://docs.civicrm.org/training/en/stable/
+#site_url: https://docs.civicrm.org/training/en/stable/
 repo_url: https://github.com/civicrm/civicrm-training-guide
 site_description: 'This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM'
 site_author: 'The CiviCRM community'
@@ -18,33 +18,42 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.mark
 
-pages:
-- Home: 'index.md'
-- Sessions:
-    - 'Accounting Integration': 'sessions/accounting-integration.md'
-    - 'Activities': 'sessions/activities.md'
-    - 'Campaigns, Surveys and Petitions': 'sessions/campaigns-surveys-and-petitions.md'
-    - 'Case Management': 'sessions/case-management.md'
-    - 'Communications': 'sessions/communications.md'
-    - 'Contribute': 'sessions/contribute.md'
-    - 'Duplicates': 'sessions/duplicates.md'
-    - 'Events': 'sessions/events.md'
-    - 'Grant': 'sessions/grant.md'
-    - 'Introduction to CiviCRM': 'sessions/introduction-civicrm.md'
-    - 'Introduction to the training': 'sessions/introduction-training.md'
-    - 'Organising Data': 'sessions/organising-data.md'
-    - 'Profiles': 'sessions/profiles.md'
-    - 'Reports': 'sessions/reports.md'
-    - 'Searches': 'sessions/searches.md'
-    - 'Set up': 'sessions/set-up.md'
-    - 'Website Integration': 'sessions/website-integration.md'
-- Courses:
-    - 'Learn how to administer CiviCRM software in 1 day': 'courses/admin-1-day.md'
-    - 'Learn how to administer CiviCRM software in 2 days': 'courses/admin-2-days.md'
-    - 'CiviCRM for Fundraisers in 1 day': 'courses/fundraising-1-day.md'
-    
-    
-    
-        
-    
+nav:
+  - Preparation for Trainers: introduction-for-trainers.md
+  - Courses:
+    - Admin (1 day): courses/admin-1-day.md
+    - Admin (2 day): courses/admin-2-day.md
+    - Fundraising (1 day): courses/fundraising-1-day.md
+  - Sessions:
+    - Setup Session: sessions/setup.md
+    - Activities: sessions/activities.md
+    - Organising data Session: sessions/organising-data.md
+    - Profiles Session: sessions/profiles.md
+    - Contribute Session: sessions/contribute.md
+    - Duplicates Session: sessions/duplicates.md
+    - Website integration Session: sessions/website-integration.md
+    - Events Session: sessions/events.md
+    - Membership Session: sessions/membership.md
+    - Communications Sessions: sessions/communications.md
+    - Reports Session: sessions/reports.md
+    - Case management Session: sessions/case-management.md
+    - Grant Session: sessions/grants.md
+    - Campaign Session: sessions/campaign.md
+    - Accounting Integration: sessions/accounting-integration.md
+  - Handouts:
+    - Introduction to CiviCRM Session: handout/introduction-to-civicrm.md
+    - Setup handout: handout/setup.md
+    - Organising data handout: handout/organising-data.md
+    - Profiles handout: handout/profiles.md
+    - Contribute handout: handout/contribute.md
+    - Duplicates handout: handout/duplicates.md
+    - Website Integration handout: handout/website-integration.md
+    - Events handout: handout/events.md
+    - Membership handout: handout/membership.md
+    - Communications handout: handout/communications.md
+    - Reports handout: handout/reports.md
+    - Case Management handout: handout/case.md
+    - Grants handout: handout/grants.md
+    - Campaign handout: handout/campaign.md
 
+dev_host: 0.0.0.0:8000
