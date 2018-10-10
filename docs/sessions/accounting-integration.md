@@ -1,14 +1,19 @@
-# Aim
+# Accounting Integration
+
+---
+##Aim
 By the end of this session, you should be able to export accounting information so that it can be imported into QuickBooks or a similar accounting package.
 
-# Objectives
+---
+##Objectives
 Specific objectives:
 
 * Understand how to configure Financial Accounts, Financial Types, and the Relations between them
 * Understand how to manage and export Accounting Batches
 * Understand a safe process for initial imports of Accounting Batches into accounting packages like QuickBooks
 
-# Learning Points
+---
+##Learning Points
 You should aim to cover:
 
 * What Financial Account Type, Account Code, and Account Type Code are used for and how they relate to your Chart of Accounts
@@ -16,10 +21,11 @@ You should aim to cover:
 * Creating, Editing, Closing and Exporting Accounting Batches
 * Typical issues when first importing batches into QuickBooks and similar packages
 
-# Session Plan
+---
+##Session Plan
 The session should last 60 minutes.
 
-## Basic Concepts (10 minutes)
+### Basic Concepts (10 minutes)
 Review the basic ideas of double entry accounting:
 
 * Organizations have a Chart of Accounts in their bookkeeping system, with different accounts classed as Assets, Liabilities, Revenue, Expenses, and so on.
@@ -29,17 +35,17 @@ Review the basic ideas of double entry accounting:
 
 Present how financial types can hide this complexity from staff who are not trained in bookkeeping or accounting:
 
-* The lifecycle of a particular kind of revenue almost always deals with a predetermined set of accounts. 
+* The lifecycle of a particular kind of revenue almost always deals with a predetermined set of accounts.
 * Andrew Perry of Community Builders proposed that we use this to simplify use of the system by investing more effort in initial configuration of 'financial types' that bundle related financial accounts together.
 * We still need to configure the financial account associated with online payment processors separately from the rest of the financial accounts in a financial type.
 
 Outline how financial batches are used:
 
-* Batching transactions is a best practice for handling financial transactions. 
+* Batching transactions is a best practice for handling financial transactions.
 * Batching provides a convenient way to ensure audit-ability, and corresponds to to actions like depositing a set of cheques.
-* Explain the process of closing batches, reconciling them, and then exporting them. Note that closed batches can be re-opened and adjusted, but exported batches cannot be changed. Additional change transactions can be created to adjust errors in an exported batch. 
+* Explain the process of closing batches, reconciling them, and then exporting them. Note that closed batches can be re-opened and adjusted, but exported batches cannot be changed. Additional change transactions can be created to adjust errors in an exported batch.
 
-## Configuration of Financial Accounts and Financial Types (10 minutes)
+### Configuration of Financial Accounts and Financial Types (10 minutes)
 
 * Demonstrate how to export a Chart of Accounts from QuickBooks and view it in a low-level editor. Point out Account Code, Account Name, and Account Type.
 * Show how to view the list of existing financial accounts at Administer > CiviContribute > Financial Accounts. Suggest benefits of editing existing accounts of the correct type over creating from scratch.
@@ -47,7 +53,7 @@ Outline how financial batches are used:
 * Show how to view the list of existing Financial Types at Administer > CiviContribute > Financial Types. Point out related financial accounts for each.
 * Demonstrate how to edit a financial type. Show how to change an existing relationship with a financial account and how to create a new one.
 
-## Managing and Exporting Financial Batches (10 minutes)
+### Managing and Exporting Financial Batches (10 minutes)
 
 * Show how to create a batch directly from data entry of offline contributions. Explain the purpose and importance of the number of items and total amount for the batch. Briefly illustrate entering offline memberships.
 * Show how the batches appear in the Open batches. Close them.
@@ -55,4 +61,4 @@ Outline how financial batches are used:
 * Show how to export a batch as either .csv or .iif. Show how to re-export the same batch in case the file was lost or corrupted.
 * Illustrate importing the .iif file into QuickBooks.
 
-## Exercise (30 minutes)
+### Exercise (30 minutes)

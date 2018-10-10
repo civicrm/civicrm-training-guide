@@ -1,10 +1,12 @@
 # Case Managemente
 
-## Aim
+---
+##Aim
 
 By the end of this session, you should understand how to set-up CiviCase and when it can be used
 
-## Objectives
+---
+##Objectives
 
 Specific objectives:
 
@@ -12,7 +14,8 @@ Specific objectives:
 * Understand how to configure the CiviCase settings
 * Understand the CiviCase interface
 
-## Learning points
+---
+##Learning points
 
 You should aim to cover the following points in this session
 
@@ -24,7 +27,8 @@ Extra points that it would be good to go into, if there is time include:
 
 * Case reports
 
-## Session plan
+---
+##Session Plan
 This session should last 30 minutes and there are no exercises.
 
 ### Basic concepts (15 minutes)
@@ -43,7 +47,7 @@ Go to the Case dashboard and look at each of the screen elements.
 
 You should then create a new case of type Housing Support, show the status and look at the activities that appear in the timeline.
 
-It is important to make it clear that the timeline doesn't have to be fixed and then you can add other activities to the case. 
+It is important to make it clear that the timeline doesn't have to be fixed and then you can add other activities to the case.
 
 Explain the Case Roles and highlight how the existing contact relationships and case resources also appear on the case screen.
 Case resources are available to all cases of a given case type.
@@ -58,8 +62,9 @@ Navigate to Administer->CiviCase->CaseTypes.
 * The screen lists available activity types including the maximum number of instances of an activity within a case (e.g. open * case should have a maximum instance of 1)
 * To add new activity types to a case which don't already exist in CiviCRM, you will need to create new activity types first via the administration menu.
 * If you are adding a Timeline you will need to identify the activities which are included in the timeline and the number of days between each activity (called the offset)
-* Sequences are similar to timelines but are not constrained by time, but are tasks which have to occur in the defined order 
+* Sequences are similar to timelines but are not constrained by time, but are tasks which have to occur in the defined order
 * Determine who will be involved in the case (the case roles). These relationships will have to be added to the Administration / Relationship Types list first
 
-## More useful tools for Case Management
+---
+##More useful tools for Case Management
 Explain that the CiviCRM book contains more detail on case management. See the CiviCase section.
