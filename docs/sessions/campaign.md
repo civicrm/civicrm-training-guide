@@ -1,18 +1,22 @@
 # Campaigns, Surveys and Petitions
 
-## Aim
+---
+##Aim
 
 Get familiar with CiviCampaign and the associated components, survey and petition
 
-## Objectives
+---
+##Objectives
 
 * Understand what a campaign is and how it can be used across CiviCRM components
 * Understand how petitions work and how to create and run petitions
 * Understand how surveys work and how to create and run surveys
 
-## Learning points
+---
+##Learning points
 
-## Session plan
+---
+##Session Plan
 
 ### What is a campaign?
 
@@ -52,6 +56,3 @@ Petition is not an online survey.  It is a petition. And is optimised as such.
 
 ### online surveys
 If you want to collect online data from individuals, you would be better off using webform.
-
-
-

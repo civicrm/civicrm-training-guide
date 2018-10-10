@@ -1,14 +1,17 @@
 # Contibute
 
-## Aim
+---
+##Aim
 
 By the end of the session, you should be able to manage contribution and contribution pages.
 
-## Objectives
+---
+##Objectives
 
 Become familiar with basic financial concepts in CiviCRM (including payment processors), be comfortable creating and working with online contribution pages, and be comfortable carrying out back end contribution administration and reporting.
 
-## Learning points
+---
+##Learning points
 
 Things to learn
 
@@ -19,10 +22,11 @@ Things to learn
 * Campaign widgets
 * Premiums
 * Personal campaign pages
-* Sales tax and invoicing 
+* Sales tax and invoicing
 * Back end contribution admin (including the contribution dashboard, creating and editing contributions, and bulk entry of offline contributions)
 
-## Session plan
+---
+##Session Plan
 
 This session should take 60 minutes. Explain that we'll cover the basics and that you can go into more depth using the book if you want to.
 
@@ -86,7 +90,7 @@ Explain that if you want to take transactions on your site you'll need to integr
 ### Sales Tax and Invoicing (5)
 * Show people the sales tax and invoicing settings pages (administer>CiviContribute>CiviContribute component settings)
 * Discuss the page settings (what do you call sales tax, due date and display settings)
-* Then show them how to create the sales tax Account (administer>CiviContribute>Financial accounts), make sure Financial Account Type is set to Liability. Select Enabled and Is Tax and specify the Tax Rate. 
+* Then show them how to create the sales tax Account (administer>CiviContribute>Financial accounts), make sure Financial Account Type is set to Liability. Select Enabled and Is Tax and specify the Tax Rate.
 * After you create the Financial Account, assign it to the specific Financial Type (adminster > CiviContribute > Financial Types). Find the Financial Type this sales tax applies to, and click on Accounts. Click on Assign Account.
 * Once a sales tax Financial Account has been added, you will see it listed with the other Financial Accounts for that specific Financial Type.
 

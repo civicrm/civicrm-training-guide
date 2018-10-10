@@ -1,12 +1,17 @@
-## Aims
+# Activities
+
+---
+##Aims
 
 By the end of the session you should be able to add, update activities along with understanding how to use them to improve your contact engagement.
 
-## Objectives
+---
+##Objectives
 
 Become familiar with basic concepts of CiviCRM Activities, understand those activities created automatically, be comfortable creating and working with activities, and gain an understanding of how to leverage activities to improve tracking specific information on a contact.
 
-## Learning points
+---
+##Learning points
 
 Things to learn:
 
@@ -21,7 +26,8 @@ Things to learn:
 * Repeat Activities
 * Follow-up Activities
 
-## Session Plan
+---
+##Session Plan
 
 This session should take 60 minutes. Explain that we'll cover the basics and have hands on exercises.
 
@@ -68,4 +74,5 @@ Walk through adding an activity. Explain required and optional fields.
 * Review assigning an activity to self or another person.
 * Review how to track future activities that need to be done.
 
-## Exercises (30)
+---
+##Exercises (30)

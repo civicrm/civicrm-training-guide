@@ -1,17 +1,20 @@
 # Duplicates
 
-## Aim
+---
+##Aim
 
 By the end of this session, you should understand how to reduce and manage duplicate contacts
 
-## Objectives
+---
+##Objectives
 
 Specific objectives:
 
 * Understand how to configure the Find and Merge Duplicate Contacts settings
 * Understand how to run regular duplicate contact checks and how to merge duplicate contacts
 
-## Learning points
+---
+##Learning points
 
 You should aim to cover the following points in this session
 
@@ -20,10 +23,11 @@ You should aim to cover the following points in this session
 
 Extra points that it would be good to go into, if there is time include:
 
-  
+
   * Merging contacts from search results - that you can merge 2 contacts directly from the contact search results action menu
 
-## Session plan
+---
+##Session Plan
 
 This session should last 45 minutes with the exercises and 30 minutes without.
 
@@ -49,10 +53,10 @@ Go back to the Find and Merge Duplicate Contacts page and edit the Organization 
 Go through in detail the concepts of:
 
 * Adding fields (add some more fields)
-* The meaning of weight and weight threshold 
+* The meaning of weight and weight threshold
 * How length will affect the matching result. A good example is 'On a First Name field check with a length of 2 Jo and Joanne would be matched'.
 
-Add a new rule that will identify individuals who have the same Postal Code and Birth Date. 
+Add a new rule that will identify individuals who have the same Postal Code and Birth Date.
 
 ### Merging Contacts (10 minutes)
 
@@ -69,6 +73,7 @@ Not forgetting;
 
 You can now ask the learners to complete Exercise 1. This will take around 10 minutes but it is then worth taking some time to review their answers in detail.
 
-## More useful tools for Duplicates
+---
+##More useful tools for Duplicates
 
 Explain that the Wiki / CiviCRM book contains more detail on duplicate management. See the Deduping and Merging section.

@@ -1,10 +1,12 @@
 # Communications
 
-## Aim
+---
+##Aim
 
 Learn about the various ways you can use CiviCRM to communicate with contacts.
 
-## Objectives
+---
+##Objectives
 
 * Have an overview of the different tools that you can use for communication in CiviCRM, and the requirements of each (e.g. any necessary system configuration or third party providers).
 * Understand how to create and send personalised mass mailings, and how to track the effectiveness of these mailings.
@@ -12,7 +14,8 @@ Learn about the various ways you can use CiviCRM to communicate with contacts.
 * Be able to carry out two way communication via SMS.
 * Understand how to create scheduled mailings based on events or memberships
 
-## Learning points
+---
+##Learning points
 
 Initial configuration should be done by a systems administrator.
 
@@ -24,7 +27,8 @@ This session covers:
 * How to schedule reminder emails.
 * How to save email sent from Outlook and gmail into CiviCRM.
 
-## Session plan
+---
+##Session Plan
 
 This session aims to take 60 minutes.  It includes some front of the class demonstrations (that can be carried out using the CiviCRM that was used to run the training course). Since this session is about sending live email, it is probably worth 1) ensuring that live email can be sent from the environment that you are using, and 2) reinforcing the fact with students' that live email will be sent.
 
@@ -99,7 +103,7 @@ Make sure that you include in the email:
 * an image that they will have to download images to see
 * a token that is replaced by their name
 * a checksum link to a profile form
-  The link detail is http://www.organisation.org/civicrm/profile/edit?reset=1&gid=N&id={contact.contact_id}&{contact.checksum} where N is the ID of the profile form you want them to edit. 
+  The link detail is http://www.organisation.org/civicrm/profile/edit?reset=1&gid=N&id={contact.contact_id}&{contact.checksum} where N is the ID of the profile form you want them to edit.
 The special link lasts for 7 days from the day you send the mailing (in Drupal / Joomla sites).
 
 ### Tokens and checksums
