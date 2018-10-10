@@ -11,7 +11,7 @@ The sessions and courses can be run with groups of learners and the trainer will
 ## Editing this guide
 
 * This guide is made with MkDocs and stored in a [GitHub repository](https://github.com/civicrm/civicrm-training-guide).
-* For simple editing instructions, see [contributing to this guide](/the-civicrm-community/contributing-to-this-manual.md).
+* For simple editing instructions, see [contributing to this guide](https://docs.civicrm.org/user/en/latest/the-civicrm-community/contributing-to-this-manual.md).
 * For a more in-depth editing tutorial, see our page in the Developer Guide on [writing documentation](https://docs.civicrm.org/dev/en/latest/documentation).
 
 The hope is that trainers will add new course programmes to the guide, as and when they have devised and delivered them.
