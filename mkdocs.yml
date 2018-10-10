@@ -1,5 +1,5 @@
 site_name: 'CiviCRM Training Guide'
-#site_url: https://docs.civicrm.org/training/en/stable/
+site_url: https://docs.civicrm.org/training/en/stable/
 repo_url: https://github.com/civicrm/civicrm-training-guide
 site_description: 'This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM'
 site_author: 'The CiviCRM community'
@@ -56,4 +56,5 @@ nav:
     - Grants handout: handout/grants.md
     - Campaign handout: handout/campaign.md
 
-dev_host: 0.0.0.0:8000
+# Uncomment to serve locally
+# dev_host: 0.0.0.0:8000
