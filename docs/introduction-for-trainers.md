@@ -1,6 +1,6 @@
 # Introduction
 
-## Preperation for trainers
+## Preparation for trainers
 
 Some general tips
 
