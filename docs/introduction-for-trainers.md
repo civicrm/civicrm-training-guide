@@ -18,10 +18,10 @@ Some general tips
 - Structure of training
     - 5 sessions each day - each is 1 hour long
     - 1 hour of extra time at the end of the day
-    - Sessions format is generally
-    - presentations and discussion, followed by
-    - exercises, followed by recap of the session
-    - start with the basics, gets more advanced as we go on.
+    - Sessions format is generally:
+        - presentations and discussion, followed by
+        - exercises, followed by recap of the session
+        - start with the basics, gets more advanced as we go on.
 - Exercises
     - you don't need to do all of them - you can save some for afterwards
     - Please feedback on our exercises as we go. If you think of something, make a note and feed it back to us.
