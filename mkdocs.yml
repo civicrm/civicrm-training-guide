@@ -19,6 +19,7 @@ markdown_extensions:
   - pymdownx.mark
 
 pages:
+  - Home: index.md
   - Preparation for Trainers: introduction-for-trainers.md
   - Courses:
     - Admin (1 day): courses/admin-1-day.md
