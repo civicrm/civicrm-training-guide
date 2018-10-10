@@ -36,7 +36,7 @@ nav:
     - Membership Session: sessions/membership.md
     - Communications Sessions: sessions/communications.md
     - Reports Session: sessions/reports.md
-    - Case management Session: sessions/case-management.md
+    - Case Management Session: sessions/case-management.md
     - Grant Session: sessions/grants.md
     - Campaign Session: sessions/campaign.md
     - Accounting Integration: sessions/accounting-integration.md
@@ -55,6 +55,3 @@ nav:
     - Case Management handout: handout/case.md
     - Grants handout: handout/grants.md
     - Campaign handout: handout/campaign.md
-
-# Uncomment to serve locally
-# dev_host: 0.0.0.0:8000
