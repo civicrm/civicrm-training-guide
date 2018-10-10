@@ -18,7 +18,7 @@ markdown_extensions:
   - pymdownx.betterem
   - pymdownx.mark
 
-nav:
+pages:
   - Preparation for Trainers: introduction-for-trainers.md
   - Courses:
     - Admin (1 day): courses/admin-1-day.md
