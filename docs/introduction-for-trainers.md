@@ -9,4 +9,4 @@ Some general tips:
 - Encourage people to ask questions as you go
 - Try not to interrupt exercises, it's better to share additional insights at the end
 - Check how trainees have answered the questions on an individual basis (like a teacher would). You'll likely find a few mistakes and it will give you a good idea about how individual people are getting on. You can start doing this towards the end of the exercise period.
-- You might want to end the training with a brief discussion of what has been covered
+- You might want to end the training with a brief discussion of what has been covered.
