@@ -2,6 +2,9 @@
 
 ## Scope of this guide
 
+!!! warning "This guide is a work in progress!"
+    This guide is a work in progress and contains formatting issues and content issues. Please consider contributing to this guide on [github](https://github.com/civicrm/civicrm-training-guide).
+
 This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM.
 
 You will find sections for sessions, courses and handouts. Each session covers a discrete topic, and includes aims, learning points, a session plan and exercises. Most sessions also have a corresponding handout in the handouts section. The courses suggest how sessions may be compiled to create training that runs over a longer period of time (maybe one or two days), and may be around a specific topic, such as memberships.
